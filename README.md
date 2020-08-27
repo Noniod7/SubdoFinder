@@ -9,3 +9,4 @@ $ pip2 install requests<br>
 $ git clone https://github.com/Noniod7/SubdoFinder<br>
 $ cd SubdoFinder<br>
 $ python2 sub.py list.txt<br>
+<li>Note : untuk targetnya ga usa kasi www ya bambang...
