@@ -1,6 +1,6 @@
 # SubdoFinder
 
-<img src="https://i.ibb.co/xzsWwY2/Screenshot-from-2020-08-27-17-27-14.png">
+<img src="https://i.ibb.co/BTPbvGf/Screenshot-from-2020-08-27-17-27-14.png">
 
 # Installation
 
